@@ -1,4 +1,4 @@
-# Next.js Starter Kit
+# Next.js Starter Kit (With Supabase)
 
 This is a starter template for hacking on a [Next.js](https://nextjs.org/) project _quickly_ within a friendly (but opinionated) environment.
 
